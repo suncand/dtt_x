@@ -1,6 +1,6 @@
 version: 2.0.02
 
-release date: 2021.2.10
+2021.2.10:
     n01:
         CHS: 修改了检查Ib最大值的一个bug
         CHC:  
@@ -14,7 +14,7 @@ release date: 2021.2.10
         CHC:  
         ENG: 
 
-release date: 2021.1.10
+2021.1.10:
     n01:
         CHS:  
         CHC:  
@@ -26,4 +26,10 @@ release date: 2021.1.10
     n02:
         CHS:  
         CHC:  
+        ENG: 
+        
+wip:
+    n01:
+        CHS: 修改驱动兼容老版
+        CHC: 
         ENG: 
