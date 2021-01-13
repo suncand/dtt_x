@@ -2,11 +2,11 @@
   'release log':
 	{'2.0.02': 
 	   { 'n01': 
-			{ 'CHS': '修改了检查Ib最大值的一个bug', 
+			{ 'CHS': '- 修改了检查Ib最大值的一个bug', 
 			  'CHC': None, 
 			  'ENG': None },
 		 'n02': 
-			{ 'CHS': '增加版本检查功能', 
+			{ 'CHS': '- 增加版本检查功能', 
 			  'CHC': None, 
 			  'ENG': None },
 		 'n03': 
