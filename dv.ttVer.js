@@ -6,7 +6,7 @@
 			  'CHC': None, 
 			  'ENG': None },
 		 'n02': 
-			{ 'CHS': None, 
+			{ 'CHS': '增加版本检查功能', 
 			  'CHC': None, 
 			  'ENG': None },
 		 'n03': 
@@ -14,7 +14,7 @@
 			  'CHC': None, 
 			  'ENG': None } 
 	   },
-	  '2.0.01': 
+	 '2.0.01': 
 	   { 'n01': 
 			{ 'CHS': None, 
 			  'CHC': None, 
