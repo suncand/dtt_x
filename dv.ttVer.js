@@ -1,4 +1,4 @@
-{ 'version': '2.0.02',
+{ 'version': '2.0.03',
   'release log':
 	{'2.0.02': 
 	   { 'n01': 
@@ -14,7 +14,7 @@
 			  'CHC': '- 增加了校准模块极性保护功能', 
 			  'ENG': '- Add protection in calibration' } 
 	   },
-	 '2.0.01': 
+	 '2.0.02': 
 	   { 'n01': 
 			{ 'CHS': None, 
 			  'CHC': None, 
